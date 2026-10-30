@@ -1,6 +1,8 @@
 # Acme Financial Dashboard
 
-A full-stack financial dashboard built with the [Next.js App Router](https://nextjs.org/docs/app). It demonstrates data fetching, streaming UI, server actions, form validation, and authentication — based on the [Next.js Learn Dashboard App](https://nextjs.org/learn/dashboard-app) course.
+A full-stack dashboard for managing invoices, browsing customer records, and reviewing revenue. Built with Next.js, TypeScript, and PostgreSQL, it combines searchable tables, validated forms, and protected dashboard routes.
+
+This learning and portfolio project is based on the [Next.js Learn Dashboard App](https://nextjs.org/learn/dashboard-app) course. It demonstrates the App Router, server-side data fetching, streaming UI, Server Actions, and credentials-based authentication.
 
 Live demo: [finances-manager-six.vercel.app](https://finances-manager-six.vercel.app/)
 
@@ -40,8 +42,8 @@ Package manager: **pnpm**
 ### 1. Clone and install
 
 ```bash
-git clone <repository-url>
-cd financial-dashboard
+git clone https://github.com/ymk-coder-star/finances-manager.git
+cd finances-manager
 pnpm install
 ```
 
